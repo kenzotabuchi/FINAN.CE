@@ -4,6 +4,7 @@ Sistema web de finanças pessoais.
 
 ## Como rodar o projeto
 ### 1 - Clonar o repositório
+No terminal do seu sistema ou IDE faça
 ```
 git clone https://github.com/kenzotabuchi/FINAN.CE.git
 cd seu-repositorio
